@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "backend jserver",
+      "author": "daniel"
+    },
+    {
+      "id": 4,
+      "title": "cliente",
+      "author": "Fernanda reis",
+      "cpf":"545.424.482-15",
+      "endereço":"Guarulhos - Rua oslo, 432 - Jardim Bela Vista",
+      "Rua": "Rua Oslo",
+      "bairro": "Jardim Bela Vista",
+      "cep": "07133-070"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
